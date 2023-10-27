@@ -1,7 +1,7 @@
 # Research on attitudes of Singaporeans towards China and the United States.
 Objective: The analysis aims to shed light on the nuanced views of Singaporeans and uncover any intriguing trends within the data towards the two nations from the Pew Research Center. 
 
-* Note: Raw data was obtained from from [here](https://www.pewresearch.org/global/dataset/spring-2022-survey-data/).
+* Note: Raw data was obtained from [here](https://www.pewresearch.org/global/dataset/spring-2022-survey-data/).
 
 # Importing Data from SPSS to R
 Since the data obtained is in SPSS format, the Haven package was used to import in the dataset. It was then named as "attitude" in a dataframe format. <br>
